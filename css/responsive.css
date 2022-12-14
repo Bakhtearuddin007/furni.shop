@@ -1,0 +1,396 @@
+@media(max-width:575px){
+    .nav_serch{
+        display: none;
+    }
+    #navigation ul li{
+        text-align: center;
+        padding: 5px 0px;
+    }
+    #navigation svg{
+        display: none;
+    }
+    /* banner part strt */
+    .dot_shape{
+        display: none;
+    }
+    #banner .slick_arrow {
+        right: 23px !important;
+        z-index: 9 !important;
+    }
+    #banner .ban_left .banner_txt {
+        background-color: transparent !important;
+        padding: 0px !important;
+        margin-top: -78px !important;
+        text-align: center;
+    }
+    #banner .bannner_img {
+        background: url(../image/banerr.jpg);
+        height: 520px !important;
+        z-index: -1;
+    }
+    #banner .ban_left .banner_txt h1 {
+        font-size: 34px !important;
+    }
+    #banner .ban_left .banner_txt p {
+        font-size: 14px !important;
+    }
+    #banner .slick_arrow i {
+        color: #242424;
+        z-index: 99;
+        font-size: 19px !important;
+        padding: 8px 0px !important;
+    }
+    #banner .ban_bottom_shape i {
+        font-size: 21px !important;
+        height: 50px !important;
+        width: 50px !important;
+        line-height: 50px !important;
+        bottom: -18px !important;
+        right: 20px !important;
+    }
+    /* banner part end */
+    /* logo part strt */
+    #logo {
+        margin: 51px 0px !important;
+        padding: 49px 0px !important;
+    }
+    #logo .logo_head h3 {
+        font-size: 20px !important;
+    }
+    /* logo part end */
+    /* hot part strt */
+    #hot {
+        padding-bottom: 0px !important;
+        text-align: center;
+    }
+    #hot .hot1 h2 {
+        font-size: 38px !important;
+    }
+    #hot .hot1 p {
+        font-size: 18px !important;
+        padding-top: 34px !important;
+        padding-bottom: 29px;
+    }
+    .hot_text{
+        padding-bottom: 20px;
+    }
+    /* hot part end */
+    /* about us part strt */
+    #about{
+        text-align: center;
+        padding: 16px 0px !important;
+    }
+    #about .about_head h2 {
+        font-size: 43px !important;
+        padding-bottom: 10px;
+    }
+    #about .about_head p {
+        font-size: 16px !important;
+    }
+    .about_btn {
+        padding-top: 37px;
+        padding-bottom: 20px;
+    }
+    .about_left_1 {
+        padding-top: 30px !important;
+    }
+    .inner_about_right_img1 {
+        margin-top: 35px !important;
+        margin-bottom: 30px;
+    }
+    .inner_about_right_img {
+        margin-bottom: 30px;
+    }
+    .inner_about_right_img2 {
+        margin-top: 2px !important;
+    }
+    /* about us part end */
+    /* product part strt */
+    #product {
+        padding: 50px 0px !important;
+        text-align: center;
+    }
+    .pro_all{
+        display: none;
+    }
+    .pro_btn{
+        margin-top: 25px;    
+    }
+    #product button {
+        background-color: transparent;
+        border: none;
+        padding: 5px 20px !important;
+        color: #3D3D3F;
+        font-family: sans-serif;
+        font-weight: 500;
+    }
+    /* product part end */
+    /* client part strt */
+    .shape_circle{
+        display: none;
+    }
+    .shape_2{
+        display: none;
+    }
+    #client .client_head h2 {
+        font-size: 43px !important;
+    }
+    #client .client_head p {
+        font-size: 16px !important;
+    }
+    #client {
+    padding: 61px 0px !important;
+    text-align: center;
+    }
+    .prevv {
+        left: 31% !important;
+        bottom: -46px !important;
+    }
+    .nextt {
+        position: absolute;
+        bottom: -8.6% !important;
+        left: 35% !important;
+    }
+    .client_abt_text h5 {
+        margin-left: -47px !important;
+        display: none;
+    }
+    .client_abt_text p {
+       display: none;
+    }
+    /* client part end */
+    /* footer part strt */
+    footer{
+        text-align: center;
+        margin-top: 36px !important;
+    }
+    .footerr_btn {
+        text-align: center !important;
+    }
+    .footerr_btn a {
+        font-size: 13px !important;
+    }
+    .footer_head h2 {
+        font-size: 36px !important;
+    }
+    .foot_1 {
+        width: 287px !important;
+        margin-bottom: 43px;
+        text-align: center !important;
+    }
+    .footer00{
+        margin: 25px 0px;
+    }
+    /* footer part end */
+}
+@media (min-width:576px) and (max-width:767.98px){
+    .nav_serch{
+        display: none;
+    }
+    #navigation ul li{
+        text-align: center;
+        padding: 5px 0px;
+    }
+    #navigation svg{
+        display: none;
+    }
+    /* banner part strt */
+    #banner .ban_left .banner_txt h1 {
+        font-size: 49px !important;
+    }
+    #banner .ban_left .banner_txt p {
+        font-size: 18px !important;
+    }
+    #banner .ban_left .banner_txt {
+        margin-top: -69px !important;
+    }
+    #banner .slick_arrow {
+        right: 95px !important;
+        z-index: 99 ;
+    }
+    #banner .bannner_img {
+        height: 646px !important;
+    }
+    #banner .ban_left {
+        padding-top: 248px !important;
+    }
+    #banner .ban_left .dot_shape {
+        top: 121px !important;
+    }
+    #banner .ban_bottom_shape i {
+        font-size: 28px !important;
+        height: 70px !important;
+        width: 70px !important;
+        line-height: 70px !important;
+    }
+    /* banner part end */
+    /* logo part strt */
+    #logo {
+        margin: 75px 0px !important;
+        padding: 53px 0px !important;
+    }
+    /* logo part end */
+    /* hot part strt */
+    .hot_main {
+        padding-bottom: 44px;
+    }
+    #hot {
+        padding-bottom: 15px !important;
+    }
+    /* hot part end */
+    /* about part strt */
+    #about {
+        padding: 0px 0px !important;
+    }
+    .about_btn {
+        margin-top: 43px;
+        padding-bottom: 24px;
+    }
+    .about_left_1 {
+        padding-top: 28px !important;
+    }
+    .inner_about_right_img1 {
+        margin-top: 35px !important;
+        margin-bottom: 30px;
+    }
+    .inner_about_right_img {
+        margin-bottom: 30px;
+    }
+    .inner_about_right_img2 {
+        margin-top: 2px !important;
+    }
+    /* about part end */
+    /* client part strt */
+    .shape_circle{
+        display: none;
+    }
+    #client .shape_2{
+        display: none;
+    }
+    .client_head{
+        text-align: left;
+    }
+    .prevv {
+        left: 0 !important;
+        bottom: -75px !important;
+    }
+    .nextt {
+        left: 12px !important;
+        bottom: -75px !important;
+    }
+    /* client part end */
+    /* footerr part strt */
+    .footerr_btn {
+        text-align: left !important;
+    }
+    /* footerr part end */
+    /* product part strt */
+    .pro_all{
+        display: none;
+    }
+    .pro_btn{
+        text-align: left !important;
+        padding-top: 25px;
+    }
+    #product button {
+        padding: 0px 40px 0px 0px !important;
+    }
+    /* product part end */
+}
+@media (min-width:768px) and (max-width:991.98px){
+    .nav_serch{
+        display: none;
+    }
+    #navigation ul li{
+        text-align: center;
+        padding: 5px 0px;
+    }
+    #navigation svg{
+        display: none;
+    }
+    /* banner part strt */
+    #banner .bannner_img {
+        height: 580px !important;
+    }
+    #banner .ban_left .banner_txt {
+        margin-top: -124px !important;
+    }
+    #banner .ban_left .dot_shape {
+        top: 82px !important;
+    }
+    #banner .ban_bottom_shape i {
+        bottom: -52px !important;
+        right: 34px !important;
+    }
+    /* banner part end */
+    /* hot part strt */
+    #hot {
+        padding-bottom: 28px !important;
+    }
+    #hot .hot1 p {
+        padding-bottom: 34px;
+    }
+    .hot_main {
+        margin-bottom: 37px;
+    }
+    /* hot part end */
+    /* about part strt */
+    .about_btn{
+        margin-top: 30px;
+    }
+    .inner_about_right_img{
+        margin-top: 28px;
+    }
+    /* about part end */
+    /* product part sstrt */
+    #product {
+        padding: 30px 0px !important;
+    }
+    .pro_all{
+        display: none;
+    }
+    .pro_btn {
+        padding-top: 42px;
+    }
+    /* product part end */
+    /* client part strt */
+    .shape_circle , .shape_2{
+        display: none;
+    }
+    .client_head{
+        text-align: left;
+    }
+    #client {
+        padding: 70px 0px !important;
+    }
+    .client_abt_text {
+        padding-top: 116px !important;
+    }
+    .nextt {
+        bottom: -11% !important;
+    }
+    .prevv {
+        bottom: -11% !important;
+    }
+    .footerr_btn {
+        text-align: left !important;
+    }
+    /* client part end */
+    /* footer strt */
+    .foot_2{
+        margin-top: 32px;
+    }
+    .frst_foot {
+        padding-top: 37px;
+    }
+    .last_foot{
+        display: none;
+    }
+    .foot_up_last {
+        margin-top: -68px;
+    }
+    /* footer end */
+}
+@media (min-width:992px) and (max-width:1199.98px){
+
+}
